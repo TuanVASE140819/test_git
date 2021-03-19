@@ -1,4 +1,4 @@
-##Welcome to Math Utility repository.
+## Welcome to Math Utility repository.
 This repo offers various math methods those are used as a helper for your project.
 
 
@@ -14,3 +14,4 @@ as a homespage of this repo
 [My Email](tuanvase140819@gmail.com)
 
 © 2021 TuanVA
+
