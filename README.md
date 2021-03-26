@@ -2,7 +2,7 @@
 
 
 [![MathUtil project | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)
-This repo offers various math methods those are used as a helper for your project.
+This repo offers various math methods those are used as a helper for your project.  
 
 
 
