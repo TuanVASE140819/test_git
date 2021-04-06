@@ -15,7 +15,7 @@ as a homespage of this repo
 
 ### Connect me via:
 [My FaceBook](https://www.facebook.com/profile.php?id=100014190151009)  
-[My Email](tuanvase140819@gmail.com)
+[My Email] (tuanvase140819@gmail.com)
 
 © 2021 TuanVA
 
